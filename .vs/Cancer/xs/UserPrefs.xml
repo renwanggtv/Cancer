@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{4264781C-E100-64B8-2D40-48150E2295E5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Src/Behavior/PlayerBehavior.cs">
+    <Files>
+      <File FileName="Assets/Src/Behavior/PlayerBehavior.cs" Line="79" Column="4" />
+      <File FileName="Assets/Src/Manager/FoodManager.cs" Line="26" Column="21" />
+      <File FileName="Assets/Src/Behavior/FoodBehavior.cs" Line="71" Column="1" />
+      <File FileName="Assets/Src/Info/PlayerInfo.cs" Line="35" Column="28" />
+      <File FileName="Assets/Src/Info/BaseInfo.cs" Line="11" Column="1" />
+      <File FileName="Assets/Src/Info/FoodInfo.cs" Line="18" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Cancer PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
